@@ -21,7 +21,7 @@
 
 ## Sobre mim
 
-Full Stack Developer e Engenheiro de IA na **Volk Creator**. Trabalho do front ao back-end e integro modelos como Claude, ChatGPT e Grok em projetos reais. Também atuo com cybersecurity — automação de segurança e hardening de sistemas.
+**Engenheiro de IA**, especializado em criação e integração de modelos como Claude, ChatGPT, Grok e Replit em sistemas reais. Também atuo em **cybersecurity**, focado em encontrar falhas e vulnerabilidades — minhas principais ferramentas são **Kali Linux** e **Wireshark**. Full Stack no front e no back-end quando o projeto pede.
 
 <br>
 
@@ -81,14 +81,9 @@ Full Stack Developer e Engenheiro de IA na **Volk Creator**. Trabalho do front a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=V0LKBLACKGATE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V0LKBLACKGATE&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
-
-</div>
-
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=V0LKBLACKGATE&color=B388FF&style=flat-square&label=VISUALIZA%C3%87%C3%95ES)
+![Followers](https://img.shields.io/github/followers/V0LKBLACKGATE?style=flat-square&color=B388FF&label=FOLLOWERS&labelColor=0A0A0A)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/V0LKBLACKGATE&label=REPOS&query=public_repos&style=flat-square&color=B388FF&labelColor=0A0A0A)
 
 </div>
 
