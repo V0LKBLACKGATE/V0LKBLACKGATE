@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,50:2b0e3f,100:0d0d0d&height=220&section=header&text=V%C3%98LK%20%2F%2F%20BLACKGATE&fontSize=42&fontColor=e0d6ff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=b199d6)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,50:2b0e3f,100:0d0d0d&height=220&section=header&text=V%C3%98LK%20%2F%2F%20BLACKGATE&fontSize=38&fontColor=e0d6ff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=16&descColor=b199d6)
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Node;Construindo+sistemas+limpos+e+escal%C3%A1veis;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Engenheiro+de+IA+%7C+Claude+%7C+ChatGPT+%7C+Grok;Java+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Node;Cybersecurity+%26+Automa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 
 <br>
 
@@ -25,6 +25,9 @@
 
 - 🧠 Gosto de resolver problema de verdade, não só fazer funcionar
 - 🏗️ Foco em código organizado, legível e que escala
+- 🤖 Atuo também como **Engenheiro de IA**, integrando Claude, ChatGPT, Replit e Grok em projetos reais
+- 🛡️ Interesse e prática em **Cybersecurity** (automação de segurança, scripts, hardening)
+- 💼 Atualmente na **Volk Creator**
 - 🌱 Sempre estudando algo novo (frameworks, arquitetura, boas práticas)
 - 🤝 Aberto a colaborar em projetos open source
 
@@ -46,6 +49,10 @@
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 </td>
 <td align="center">
@@ -72,6 +79,35 @@
 </td>
 </tr>
 </table>
+
+<br>
+
+## 🤖 IA & Automação
+
+<div align="center">
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-0A0A0A?style=for-the-badge&logo=xai&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-0A0A0A?style=for-the-badge&logo=replit&logoColor=F26207)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+</div>
+
+## 🛡️ Cybersecurity
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0A0A0A?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logoColor=white)
+
+</div>
 
 <br>
 
