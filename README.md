@@ -1,142 +1,94 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,50:2b0e3f,100:0d0d0d&height=220&section=header&text=V%C3%98LK%20%2F%2F%20BLACKGATE&fontSize=38&fontColor=e0d6ff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=16&descColor=b199d6)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:2b0e3f&height=160&section=header&text=V%C3%98LK%20%2F%2F%20BLACKGATE&fontSize=36&fontColor=e0d6ff&fontAlignY=42)
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Engenheiro+de+IA+%7C+Claude+%7C+ChatGPT+%7C+Grok;Java+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Node;Cybersecurity+%26+Automa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+<p>Full Stack Developer · AI Engineer · Cybersecurity</p>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=600&lines=Java+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Node;Claude+%7C+ChatGPT+%7C+Grok+%7C+Replit;Cybersecurity+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
 
-![GitHub Universe 2026](https://img.shields.io/badge/GitHub%20Universe-2026-0A0A0A?style=for-the-badge&logo=github&logoColor=B388FF)
+![GitHub Universe 2026](https://img.shields.io/badge/GitHub%20Universe-2026-0A0A0A?style=flat-square&logo=github&logoColor=B388FF)
 
-<br>
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=B388FF)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=B388FF)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=B388FF)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=B388FF)](#)
-
-</div>
-
-<br>
-
-## 🕳️ Sobre mim
-
-> Desenvolvedor **Full Stack** — do front ao back-end, sem medo de botar a mão em qualquer parte do sistema.
-
-- 🧠 Gosto de resolver problema de verdade, não só fazer funcionar
-- 🏗️ Foco em código organizado, legível e que escala
-- 🤖 Atuo também como **Engenheiro de IA**, integrando Claude, ChatGPT, Replit e Grok em projetos reais
-- 🛡️ Interesse e prática em **Cybersecurity** (automação de segurança, scripts, hardening)
-- 💼 Atualmente na **Volk Creator**
-- 🌱 Sempre estudando algo novo (frameworks, arquitetura, boas práticas)
-- 🤝 Aberto a colaborar em projetos open source
-
-<br>
-
-## ⚙️ Stack
-
-<table align="center">
-<tr>
-<td align="center" width="25%"><b>Linguagens</b></td>
-<td align="center" width="25%"><b>Front-end</b></td>
-<td align="center" width="25%"><b>Back-end</b></td>
-<td align="center" width="25%"><b>Ferramentas</b></td>
-</tr>
-<tr>
-<td align="center">
-
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-</td>
-<td align="center">
-
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</td>
-<td align="center">
-
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-</td>
-<td align="center">
-
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🤖 IA & Automação
-
-<div align="center">
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-0A0A0A?style=for-the-badge&logo=xai&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-0A0A0A?style=for-the-badge&logo=replit&logoColor=F26207)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-</div>
-
-## 🛡️ Cybersecurity
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0A0A0A?style=for-the-badge&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </div>
 
 <br>
 
-## 📊 Estatísticas
+## Sobre mim
+
+Full Stack Developer e Engenheiro de IA na **Volk Creator**. Trabalho do front ao back-end e integro modelos como Claude, ChatGPT e Grok em projetos reais. Também atuo com cybersecurity — automação de segurança e hardening de sistemas.
+
+<br>
+
+## 🛠️ Stack
+
+**Linguagens**
+<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+**Front-end**
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Back-end**
+<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Ferramentas**
+<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**IA & Automação**
+<br>
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-1A1A1A?style=flat-square&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
+
+**Cybersecurity**
+<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-1A1A1A?style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logoColor=white)
+
+<br>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=V0LKBLACKGATE&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B388FF&icon_color=B388FF&text_color=e0d6ff&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V0LKBLACKGATE&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=B388FF&text_color=e0d6ff" width="38%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=V0LKBLACKGATE&theme=radical&hide_border=true&background=0D0D0D&stroke=B388FF&ring=B388FF&fire=B388FF&currStreakLabel=e0d6ff" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=V0LKBLACKGATE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V0LKBLACKGATE&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=V0LKBLACKGATE&theme=react-dark&bg_color=0D0D0D&color=B388FF&line=B388FF&point=e0d6ff&hide_border=true" width="90%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=V0LKBLACKGATE&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=V0LKBLACKGATE&color=B388FF&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES)
+![Profile Views](https://komarev.com/ghpvc/?username=V0LKBLACKGATE&color=B388FF&style=flat-square&label=VISUALIZA%C3%87%C3%95ES)
 
 </div>
 
@@ -144,6 +96,6 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,50:2b0e3f,100:0d0d0d&height=100&section=footer&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:2b0e3f,100:0d0d0d&height=100&section=footer)
 
 </div>
