@@ -85,13 +85,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=V0LKBLACKGATE&color=B388FF&style=flat-square&label=VISUALIZA%C3%87%C3%95ES)
 ![Followers](https://img.shields.io/github/followers/V0LKBLACKGATE?style=flat-square&color=B388FF&label=FOLLOWERS&labelColor=0A0A0A)
 ![Repositórios](https://img.shields.io/badge/REPOSIT%C3%93RIOS-18%20(1%20p%C3%BAblico%20%2B%2017%20privados)-B388FF?style=flat-square&labelColor=0A0A0A)
-![Contribuições 2026](https://img.shields.io/badge/CONTRIBUI%C3%87%C3%95ES%20EM%202026-5-B388FF?style=flat-square&labelColor=0A0A0A)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=V0LKBLACKGATE&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=B388FF&ring=B388FF&fire=B388FF&currStreakLabel=e0d6ff" width="60%" />
 
 </div>
 
