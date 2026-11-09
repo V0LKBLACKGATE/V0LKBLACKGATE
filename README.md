@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-**Engenheiro de IA**, especializado em criação e integração de modelos como Claude, ChatGPT, Grok e Replit em sistemas reais. Também atuo em **cybersecurity**, focado em encontrar falhas e vulnerabilidades — minhas principais ferramentas são **Kali Linux** e **Wireshark**. Full Stack no front e no back-end quando o projeto pede.
+**Engenheiro de IA**, especializado em criação e integração de modelos como Claude, ChatGPT, Grok e Replit em sistemas reais. Também atuo em **cybersecurity**, focado em encontrar falhas e vulnerabilidades, usando principalmente **Kali Linux** e **Wireshark**. Full Stack no front e no back-end quando o projeto pede.
 
 <br>
 
