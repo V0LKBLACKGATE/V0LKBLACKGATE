@@ -6,6 +6,10 @@
 
 <br>
 
+![GitHub Universe 2026](https://img.shields.io/badge/GitHub%20Universe-2026-0A0A0A?style=for-the-badge&logo=github&logoColor=B388FF)
+
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=B388FF)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=B388FF)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=B388FF)](#)
