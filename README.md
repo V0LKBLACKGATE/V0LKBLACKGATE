@@ -8,13 +8,6 @@
 
 ![GitHub Universe 2026](https://img.shields.io/badge/GitHub%20Universe-2026-0A0A0A?style=flat-square&logo=github&logoColor=B388FF)
 
-<br><br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-
 </div>
 
 <br>
